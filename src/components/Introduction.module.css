@@ -1,0 +1,9 @@
+.intro{
+    margin-top: auto;
+    margin:20px;
+    width: 50vw;
+    
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px red;
+    padding: 10px;
+}
